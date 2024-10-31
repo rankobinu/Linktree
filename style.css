@@ -1,0 +1,88 @@
+@font-face {
+    font-family: Inter-VariableFont;
+    src: url(Inter-VariableFont_slnt,wght.ttf);
+}
+body{
+    overflow: hidden;
+    background-color: hsl(0, 0%, 8%);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+    
+}
+main{
+    background-color: hsl(0, 0%, 12%);
+    min-height:67%;
+    min-width: 23%;
+    font-family: Inter-VariableFont;
+    border-radius: 11px;
+    padding-bottom: 2em;
+}
+img{
+    height: 70px;
+    width:70px;
+    border-radius: 180px;
+    margin-top: 2em;
+}
+.sLink{
+    background-color: hsl(0, 0%, 20%);
+    max-width: 80%;
+    height:3em;
+    margin-top:1em ;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: small;
+    font-weight: 600;
+    display: flex;
+    flex-direction: column;
+    
+}
+h3{
+    font-size: large;
+    font-weight: 700;
+}
+h3,small,.sLink{
+    color:hsl(0, 0%, 100%);
+}
+small{
+    font-size: 12px;
+    font-weight: 400;
+}
+.basicInfo{
+    margin-bottom: 1.5em;
+}
+.location{
+    color: hsl(75, 94%, 57%);
+    font-size: 11px;
+    font-weight: 600;
+    margin-top: -1em;
+    margin-bottom: 1.5em;
+}
+.sLink:hover{
+    background-color:hsl(75, 94%, 57%) ;
+    color:hsl(0, 0%, 12%);
+}
+.socials:hover{
+    color:hsl(0, 0%, 12%);
+}
+
+
+@media only screen and (max-width:600px) {
+    main{
+        max-height: 80vh;
+    } 
+    .sLink{
+        height:2em ;
+        display: flex;
+        flex-direction:column ;
+        justify-content: center;
+        
+    }
+    
+   
+}
