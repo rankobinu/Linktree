@@ -34,7 +34,7 @@ Users should be able to:
 ##### Desktop
 ![Screenshot of the solution on the Desktop Screen](image-3.png)
 ##### Mobile
-![Screenshot of the solution on the Mobile Screen](image-4.png)
+![Screenshot of the solution on the Mobile Screen](image-5.png)
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
