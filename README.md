@@ -37,8 +37,8 @@ Users should be able to:
 ![Screenshot of the solution on the Mobile Screen](image-5.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://rankobinu.github.io/Linktree/)
+- Solution URL: https://github.com/rankobinu/Linktree
+- Live Site URL: https://rankobinu.github.io/Linktree/
 ## My process
 ### Built with
 
